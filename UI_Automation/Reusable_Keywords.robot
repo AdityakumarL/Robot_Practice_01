@@ -2,3 +2,5 @@
 Library    SeleniumLibrary
 
 *** Keywords ***
+Clear Text
+    Clear Text
